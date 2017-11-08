@@ -1,0 +1,5 @@
+- Account: 213317749740-agh_kuberlab_02
+  AutoDeploy: false
+  Name: tensorflow-minst-aws
+  Provider: amazon
+  Src: tensorflow_minst_aws.yaml
